@@ -1,0 +1,8 @@
+pandas
+matplitlib
+seaborn
+scikit-learn
+scipy
+joblib
+
+# for installing the requirements  => pip install -r requirements.txt
