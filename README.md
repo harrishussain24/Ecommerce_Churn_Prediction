@@ -1,4 +1,4 @@
-#Customer Churn Prediction - Machine Learning Project
+Customer Churn Prediction - Machine Learning Project
 
 Overview
 This project aims to predict customer churn using machine learning teechniques. We analyze factors such as monthly spending, subscription length, contract type, and premium support to understand why customers leave.
