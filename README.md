@@ -73,9 +73,9 @@ How to Run the Project
     * Example usage:
         * import joblib 
         * import pandas as pd 
-        * # Load trained model  -> model = joblib.load("trained_model.pkl") 
-        * # Load new data  -> new_data = pd.read_csv("new_data.csv") 
-        * # Make predictions  -> predictions = model.predict(new_data) 
+        * Load trained model  -> model = joblib.load("trained_model.pkl") 
+        * Load new data  -> new_data = pd.read_csv("new_data.csv") 
+        * Make predictions  -> predictions = model.predict(new_data) 
         * print("Predictions:", predictions)
 * Additional Notes
     * If you encounter errors, ensure all dependencies in requirements.txt are installed.
