@@ -1,4 +1,4 @@
-Customer Churn Prediction - Machine Learning Project
+#Customer Churn Prediction - Machine Learning Project
 
 Overview
 This project aims to predict customer churn using machine learning teechniques. We analyze factors such as monthly spending, subscription length, contract type, and premium support to understand why customers leave.
@@ -73,9 +73,9 @@ How to Run the Project
     * Example usage:
         * import joblib 
         * import pandas as pd 
-        * # Load trained model  -> model = joblib.load("trained_model.pkl") 
-        * # Load new data  -> new_data = pd.read_csv("new_data.csv") 
-        * # Make predictions  -> predictions = model.predict(new_data) 
+        * Load trained model  -> model = joblib.load("trained_model.pkl") 
+        * Load new data  -> new_data = pd.read_csv("new_data.csv") 
+        * Make predictions  -> predictions = model.predict(new_data) 
         * print("Predictions:", predictions)
 * Additional Notes
     * If you encounter errors, ensure all dependencies in requirements.txt are installed.
